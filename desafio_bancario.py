@@ -76,3 +76,4 @@ while True:
         break
     else:
         print("Opção inválida, por favor selecione novamente e, de preferência, um valor(letra) válido(válida).")
+
